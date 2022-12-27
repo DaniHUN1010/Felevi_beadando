@@ -6,3 +6,6 @@ margin: 20px;}
 body {background-color: cornsilk;}
 #szfejleszto {background-color:aquamarine ;}
 fieldset {background-color: bisque;}
+h2 {
+    font-style: italic;
+}

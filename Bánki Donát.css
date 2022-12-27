@@ -17,3 +17,6 @@ table,td,tr {
     border: solid black 2px;
     border-collapse: collapse;
 }
+h2 {
+    font-style: italic;
+}
