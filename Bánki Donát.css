@@ -2,5 +2,18 @@ h1 {
     text-align: center;
 }
 div {border: dashed red 5px;
-background-color: bisque;}
-body {background-color:cornsilk ;}
+background-color: bisque;
+}
+body {background-color:cornsilk ;
+}
+a {
+    color: black;
+}
+
+td {
+    padding: 20px;
+}
+table,td,tr {
+    border: solid black 2px;
+    border-collapse: collapse;
+}
