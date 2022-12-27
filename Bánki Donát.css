@@ -3,6 +3,7 @@ h1 {
 }
 div {border: dashed red 5px;
 background-color: bisque;
+margin-right: 67%;
 }
 body {background-color:cornsilk ;
 }
@@ -11,7 +12,7 @@ a {
 }
 
 td {
-    padding: 20px;
+    padding: 50px;
 }
 table,td,tr {
     border: solid black 2px;
