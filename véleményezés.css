@@ -5,3 +5,10 @@ body {
     background-color: cadetblue;
     text-align:center;
 }
+img {
+    width:800px;
+    display:inline-block;
+}
+.yes{
+    margin-right: 800px;
+}
